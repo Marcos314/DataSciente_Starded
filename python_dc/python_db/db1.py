@@ -38,3 +38,5 @@ dados = cs.fetchall()
 
 for l in dados:
     print(l)
+
+con.close()
