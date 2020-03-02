@@ -54,6 +54,7 @@ def dados_graf():
         valores.append(linha[1])
 
     plt.bar(ids, valores)
-    plt.show()
+    #plt.show()
+    plt.savefig('teste.png', format='png')
 
 dados_graf()

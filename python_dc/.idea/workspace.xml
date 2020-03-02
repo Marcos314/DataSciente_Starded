@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d68174a0-6eeb-46b5-8aab-0b54c6ba32d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_db/acessando_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db/db3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db/grafico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db/grafico_vis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db/grafico.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_db/grafico.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,12 +186,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583106083542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.&#10;  plt.show()">
+      <created>1583109521605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583109521605</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="manipulando db com python" />
-    <option name="LAST_COMMIT_MESSAGE" value="manipulando db com python" />
+    <MESSAGE value="UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.&#10;  plt.show()" />
+    <option name="LAST_COMMIT_MESSAGE" value="UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.&#10;  plt.show()" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="307" width="491" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583020950333">
@@ -213,22 +218,22 @@
       <screen x="0" y="0" width="1280" height="1000" />
     </state>
     <state x="423" y="259" width="430" height="482" key="FileChooserDialogImpl/0.0.1280.1000@0.0.1280.1000" timestamp="1582162119809" />
-    <state width="1259" height="278" key="GridCell.Tab.0.bottom" timestamp="1583109413278">
+    <state width="1259" height="278" key="GridCell.Tab.0.bottom" timestamp="1583109832435">
       <screen x="0" y="0" width="1280" height="1000" />
     </state>
-    <state width="1259" height="278" key="GridCell.Tab.0.bottom/0.0.1280.1000@0.0.1280.1000" timestamp="1583109413278" />
-    <state width="1259" height="278" key="GridCell.Tab.0.center" timestamp="1583109413277">
+    <state width="1259" height="278" key="GridCell.Tab.0.bottom/0.0.1280.1000@0.0.1280.1000" timestamp="1583109832435" />
+    <state width="1259" height="278" key="GridCell.Tab.0.center" timestamp="1583109832434">
       <screen x="0" y="0" width="1280" height="1000" />
     </state>
-    <state width="1259" height="278" key="GridCell.Tab.0.center/0.0.1280.1000@0.0.1280.1000" timestamp="1583109413277" />
-    <state width="1259" height="278" key="GridCell.Tab.0.left" timestamp="1583109413277">
+    <state width="1259" height="278" key="GridCell.Tab.0.center/0.0.1280.1000@0.0.1280.1000" timestamp="1583109832434" />
+    <state width="1259" height="278" key="GridCell.Tab.0.left" timestamp="1583109832434">
       <screen x="0" y="0" width="1280" height="1000" />
     </state>
-    <state width="1259" height="278" key="GridCell.Tab.0.left/0.0.1280.1000@0.0.1280.1000" timestamp="1583109413277" />
-    <state width="1259" height="278" key="GridCell.Tab.0.right" timestamp="1583109413278">
+    <state width="1259" height="278" key="GridCell.Tab.0.left/0.0.1280.1000@0.0.1280.1000" timestamp="1583109832434" />
+    <state width="1259" height="278" key="GridCell.Tab.0.right" timestamp="1583109832434">
       <screen x="0" y="0" width="1280" height="1000" />
     </state>
-    <state width="1259" height="278" key="GridCell.Tab.0.right/0.0.1280.1000@0.0.1280.1000" timestamp="1583109413278" />
+    <state width="1259" height="278" key="GridCell.Tab.0.right/0.0.1280.1000@0.0.1280.1000" timestamp="1583109832434" />
     <state x="91" y="232" key="SettingsEditor" timestamp="1582159041758">
       <screen x="0" y="0" width="1280" height="1000" />
     </state>
